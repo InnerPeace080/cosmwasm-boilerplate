@@ -1,3 +1,3 @@
-#
+# cosmwasm-boilerplate
 
 ## Deployment
