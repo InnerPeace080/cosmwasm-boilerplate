@@ -4,7 +4,7 @@ use cw2::set_contract_version;
 use crate::types::{msg::InstantiateMsg, query::ContractVersionResp};
 
 // version info for migration info
-const CONTRACT_NAME: &str = "crates.io:power-flow-bridge";
+const CONTRACT_NAME: &str = "crates.io:cosmwasm-boilerplate";
 const CONTRACT_VERSION: &str = env!("CARGO_PKG_VERSION");
 
 pub fn instantiate(

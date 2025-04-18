@@ -7,7 +7,7 @@ use crate::{
     types::msg::{InstantiateMsg, MigrateMsg},
 };
 
-pub const CONTRACT_NAME: &str = "crates.io:power-flow-bridge";
+pub const CONTRACT_NAME: &str = "crates.io:cosmwasm-boilerplate";
 pub const CONTRACT_VERSION: &str = "10.0.0-rc.1";
 
 pub fn instantiate(
